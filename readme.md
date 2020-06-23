@@ -3,7 +3,7 @@ Overview
 
 Cloud is a continously envoluting platform. Services provided by Cloud platform  are enriched and enhanced over time. It is also an open environment that gives you flexibility of choosing what is right for you.
 
-Here I am setting up a Nginx machine to work with  Google Platform Cloud Load Balancing to archive traffic routing by source IP address.
+Here I am setting up a Nginx machine to work with  Google Platform Cloud Load Balancing to archive traffic routing by source IP address. This is useful when you need Canary deployments.
 
 
 The Problem
@@ -40,7 +40,7 @@ What and Why are we choosing these services
 
 |Component|Feature|
 |:--:|:--:|
-|GCP HTTP/S Load Balancing|GCP's native service<br/>Mitigate many internet attacks such as DDoS<br/>|
+|GCP HTTP/S Load Balancing|GCP's native service<br/>Built-in security featured<br/>|
 |Nginx|Open source<br/>Enterprise option<br/>Powerful Load balancing and proxy services<br/>Rich learning materials available|
 
 * Nginx is an open source solution which are very popular and yet powerful load balancer, proxy and web server. It also come with F5 enterprise level support via Google Cloud platform marketplace.
