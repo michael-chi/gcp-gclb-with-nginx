@@ -33,7 +33,7 @@ In  order to archive this, we will be creating a Nginx reverse proxy sitting bet
 
 A high-level architecture design are shown below.
 
-<img src="./assets/img/gclb-nginx-high-lv-arch.png" style="width:50%;height:50%"/>
+<img src="./assets/img/gclb-nginx-detailed-components.png" style="width:50%;height:50%"/>
 
 What and Why are we choosing these services
 ===========================================

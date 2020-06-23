@@ -30,7 +30,7 @@ How are we solving
 
 架構大致上會像下面這樣
 
-<img src="./assets/img/gclb-nginx-high-lv-arch.png" style="width:50%;height:50%"/>
+<img src="./assets/img/gclb-nginx-detailed-components.png" style="width:50%;height:50%"/>
 
 What and Why are we choosing these services
 ===========================================
