@@ -11,7 +11,7 @@ Prerequisites
 -   Assuming we have below services ready
 
 |Component              |Value              |Comment| IP address|
-|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|
 |External Load Balancer |nlb                |External load balancer which  accepts incoming traffic from the internet<br/>Route traffic to Nginx backend| |
 |Internal Load Balancer |ilb                |Internal load balancer which route traffic to `application-web` |10.100.1.4|
 |Internal Load Balancer |ilb                |Internal load balancer which route traffic to `event-web`|10.100.1.5|
